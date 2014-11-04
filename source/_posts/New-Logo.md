@@ -9,7 +9,7 @@ tags: [OSH, Meeting]
 ##This Month
 Saturday: Nov 08, In The Year of Our Robotic Overlords, 2014
 
-11:30 am
+2:00 PM (note: changed from 11:30am due to conflict)
 
 @Prototek
 401 NW 10th,
