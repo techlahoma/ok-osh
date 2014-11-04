@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[OK-OSH]]></title>
+  <subtitle><![CDATA[The Oklahoma City Open Source Hardware]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="www.ok-osh.org/"/>
+  <updated>2014-11-04T04:08:43.311Z</updated>
+  <id>www.ok-osh.org/</id>
+  
+  <author>
+    <name><![CDATA[Lawrence Kincheloe]]></name>
+    <email><![CDATA[oklahoma.open.source.hardware@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[New Logo and meeting Saturday!]]></title>
+    <link href="www.ok-osh.org/2014/11/03/New-Logo/"/>
+    <id>www.ok-osh.org/2014/11/03/New-Logo/</id>
+    <published>2014-11-04T03:27:30.000Z</published>
+    <updated>2014-11-04T04:07:21.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/logos/OKOsHw-logo.png" title="[700] [OKOSH]">
+
+
+<h2 id="This_Month">This Month</h2>
+<p>Saturday: Nov 08, In The Year of Our Robotic Overlords, 2014</p>
+<p>11:30 am</p>
+<p>@Prototek<br>401 NW 10th,<br>Oklahoma City, Oklahoma<br>73101</p>
+<h2 id="About_“Updates!”">About “Updates!”</h2>
+<p>We’ve had an exciting week in gearing up the group. Logo, web hosting, github repo, and our first project update, we’re almost ready to roll out!</p>
+<p><a id="more"></a><br>You’ve pressed the great “&gt; Read More” artifact!<br>Now, you can never unsee this sentence.</p>
+<h2 id="About_our_Speaker">About our Speaker</h2>
+<h3 id="Lawrence">Lawrence</h3>
+<p>Lawrence is a Meta Smith.<br>He hacks large systems to see what creative and inexplicable outcome emerges from the collective.<br>In his infinite spare time, he contributes to the Maker Community.</p>
+<h3 id="Our_Sponsors">Our Sponsors</h3>
+<p>Meeting space is provided thanks to <a href="http://www.prototekokc.com" target="_blank" rel="external">Prototek</a>. These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!</p>
+<p>Tasty lunch will be served thanks to <a href="http://techlahoma.org/" target="_blank" rel="external">Techlahoma</a>.</p>
+<h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2>
+<p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
+<img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
+
+<p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
+<p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415" target="_blank" rel="external">Google maps</a>.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<img src="/images/logos/OKOsHw-logo.png" title="[700] [OKOSH]">
+
+
+<h2 id="This_Month">This Month</h2>
+<p>Saturday: Nov 08, In The Year of Our Robotic Overlords, 2014</p>
+<p>11:30 am</p>
+<p>@Prototek<br>401 NW 10th,<br>Oklahoma City, Oklahoma<br>73101</p>
+<h2 id="About_“Updates!”">About “Updates!”</h2>
+<p>We’ve had an exciting week in gearing up the group. Logo, web hosting, github repo, and our first project update, we’re almost ready to roll out!</p>
+<p>]]>
+    
+    </summary>
+    
+      <category term="OSH" scheme="www.ok-osh.org/tags/OSH/"/>
+    
+      <category term="Meeting" scheme="www.ok-osh.org/tags/Meeting/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Oklahoma Open Hardware]]></title>
+    <link href="www.ok-osh.org/2014/10/25/Oklahoma-Open-Hardware/"/>
+    <id>www.ok-osh.org/2014/10/25/Oklahoma-Open-Hardware/</id>
+    <published>2014-10-25T17:51:13.000Z</published>
+    <updated>2014-11-04T03:49:24.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="OK-OSH">OK-OSH</h1>
+<h3 id="Oklahoma_Open_Source_Hardware">Oklahoma Open Source Hardware</h3>
+<h2 id="Where_We_will_Meet">Where We will Meet</h2>
+<p>Second Saturday of the month 11:30am<br>at </p>
+<p>@Prototek<br>401 NW 10th,<br>Oklahoma City, Oklahoma<br>73101</p>
+<h2 id="About_“Our_New_Group”">About “Our New Group”</h2>
+<p>We will be meeting regularly to discuss the exciting world of Open Source Hardware</p>
+<a id="more"></a>
+
+<p>So What exactly is Open Source Hardware</p>
+<h3 id="Our_Sponsors">Our Sponsors</h3>
+<p>Meeting space is provided thanks to <a href="http://www.prototekokc.com" target="_blank" rel="external">Prototek</a>. These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!</p>
+<p>Tasty food will be served thanks to <a href="http://techlahoma.org/" target="_blank" rel="external">Techlahoma</a>.</p>
+<h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2>
+<p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
+<img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
+
+<p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
+<p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415" target="_blank" rel="external">Google maps</a>.</p>
+<div id="googleMap9782" style="
+
+            height: 250px;
+
+            width: 100%;
+
+            margin: 0px;
+
+            padding: 0px
+
+            ">
+
+</div>
+
+<style>.gmnoprint img {max-width: none;}</style>
+
+<script defer="defer">
+
+  window.hexoGmaps = window.hexoGmaps || { maps: {}};
+
+
+
+
+
+  window.hexoGmaps.maps['initgoogleMap9782'] = function init() {
+
+
+
+    console.log('making map', 'googleMap9782');
+
+
+
+    var mapOptions = {
+
+      zoom: 8,
+
+      center: new window.google.maps.LatLng( 35.478527 , -97.519417 ),
+
+    };
+
+
+
+    var target = document.getElementById('googleMap9782');
+
+    var map = new window.google.maps.Map(target, mapOptions);
+
+  }
+
+
+
+  function makeMaps() {
+
+    console.log('making every map')
+
+    for (var map in window.hexoGmaps.maps) {
+
+       console.log('map #', map);
+
+       window.hexoGmaps.maps[map]();               
+
+    }
+
+  }
+
+
+
+  function loadScript() {
+
+    window.hexoGmaps.googleScriptLoaded = true;
+
+    var script = document.createElement('script');
+
+    script.type = 'text/javascript';
+
+    script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&callback=makeMaps';
+
+    document.body.appendChild(script);
+
+  }
+
+
+
+  if (!window.hexoGmaps.googleScriptLoaded) {
+
+    loadScript();
+
+  } 
+
+  
+
+</script>]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="OK-OSH">OK-OSH</h1>
+<h3 id="Oklahoma_Open_Source_Hardware">Oklahoma Open Source Hardware</h3>
+<h2 id="Where_We_will_Meet">Where We will Meet</h2>
+<p>Second Saturday of the month 11:30am<br>at </p>
+<p>@Prototek<br>401 NW 10th,<br>Oklahoma City, Oklahoma<br>73101</p>
+<h2 id="About_“Our_New_Group”">About “Our New Group”</h2>
+<p>We will be meeting regularly to discuss the exciting world of Open Source Hardware</p>
+]]>
+    
+    </summary>
+    
+      <category term="OSH" scheme="www.ok-osh.org/tags/OSH/"/>
+    
+      <category term="Info" scheme="www.ok-osh.org/tags/Info/"/>
+    
+  </entry>
+  
+</feed>
